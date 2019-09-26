@@ -1,0 +1,4 @@
+rencana 1 bulan
+- belajar git-hub
+  * belajar di chanel youtube Web Programing UNPAS
+- belajar php
