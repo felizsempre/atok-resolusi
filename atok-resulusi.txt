@@ -1,5 +1,5 @@
 Atok rosulusi tahun ini
-- beljar mengatur waktu tidur terlebih dahulu
+- belajar mengatur waktu tidur terlebih dahulu
 - belajar git-hub dulu
 - belajar web programing
 - belajar java, php dan sql
